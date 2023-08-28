@@ -3,16 +3,16 @@ const fs = require('fs-extra')
   
   
  //═══════[Required Variables]════════\\ 
- global.owner = process.env.OWNER_NUMBER.split(",") 
+ global.owner = process.env.OWNER_NUMBER.split("491621655705") 
  global.mongodb = process.env.MONGODB_URI || "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority" 
  global.port= process.env.PORT || 5000 
  global.email = 'sam@secktor.live' 
- global.github = 'https://github.com/nipuna15' 
- global.location = 'Sri lanka, Monaragala' 
- global.gurl = 'https://instagram.com/' // add your username 
- global.sudo = process.env.SUDO || '919628516236' 
- global.devs = '919628516236'; 
- global.website = 'https://github.com/' //wa.me/+91000000000000 
+ global.github = 'https://github.com/qo4c' 
+ global.location = 'Germany, Berlin' 
+ global.gurl = 'https://instagram.com/qo4c' // add your username 
+ global.sudo = process.env.SUDO || '491621655705' 
+ global.devs = '491621655705'; 
+ global.website = 'https://github.com/qo4c' //wa.me/+91000000000000 
  global.THUMB_IMAGE = process.env.THUMB_IMAGE || '' 
  module.exports = { 
    botname:   process.env.BOT_NAME === undefined ? '' : process.env.BOT_NAME, 
